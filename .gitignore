@@ -46,7 +46,20 @@ build/
 .idea/
 *.swp
 *.swo
-
+#jpeg files
+*.jpeg
+#png files
+*.png
+#jpg files
+*.jpg
+#webp files
+*.webp
+#gif files
+*.gif
+#bmp files
+*.bmp
+#tiff files
+*.tiff
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
